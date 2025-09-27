@@ -1,0 +1,122 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440001",
+    "name": "John Smith",
+    "email": "john.smith@example.com",
+    "major": "Computer Science",
+    "year": 2,
+    "gpa": 3.5,
+    "status": "active",
+    "enrollment_date": "2023-09-01T00:00:00.000000",
+    "created_at": "2024-09-27T10:00:00.000000",
+    "updated_at": "2024-09-27T10:00:00.000000"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440002",
+    "name": "Emily Johnson",
+    "email": "emily.johnson@example.com",
+    "major": "Business Administration",
+    "year": 3,
+    "gpa": 3.8,
+    "status": "active",
+    "enrollment_date": "2022-09-01T00:00:00.000000",
+    "created_at": "2024-09-27T10:00:00.000000",
+    "updated_at": "2024-09-27T10:00:00.000000"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440003",
+    "name": "Michael Brown",
+    "email": "michael.brown@example.com",
+    "major": "Engineering",
+    "year": 1,
+    "gpa": 3.2,
+    "status": "active",
+    "enrollment_date": "2024-09-01T00:00:00.000000",
+    "created_at": "2024-09-27T10:00:00.000000",
+    "updated_at": "2024-09-27T10:00:00.000000"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440004",
+    "name": "Sarah Davis",
+    "email": "sarah.davis@example.com",
+    "major": "Psychology",
+    "year": 4,
+    "gpa": 3.9,
+    "status": "active",
+    "enrollment_date": "2021-09-01T00:00:00.000000",
+    "created_at": "2024-09-27T10:00:00.000000",
+    "updated_at": "2024-09-27T10:00:00.000000"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440005",
+    "name": "David Wilson",
+    "email": "david.wilson@example.com",
+    "major": "Mathematics",
+    "year": 2,
+    "gpa": 3.6,
+    "status": "active",
+    "enrollment_date": "2023-09-01T00:00:00.000000",
+    "created_at": "2024-09-27T10:00:00.000000",
+    "updated_at": "2024-09-27T10:00:00.000000"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440006",
+    "name": "Lisa Anderson",
+    "email": "lisa.anderson@example.com",
+    "major": "Art History",
+    "year": 3,
+    "gpa": 3.4,
+    "status": "inactive",
+    "enrollment_date": "2022-09-01T00:00:00.000000",
+    "created_at": "2024-09-27T10:00:00.000000",
+    "updated_at": "2024-09-27T10:00:00.000000"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440007",
+    "name": "Robert Garcia",
+    "email": "robert.garcia@example.com",
+    "major": "Physics",
+    "year": 4,
+    "gpa": 3.7,
+    "status": "graduated",
+    "enrollment_date": "2021-09-01T00:00:00.000000",
+    "created_at": "2024-09-27T10:00:00.000000",
+    "updated_at": "2024-09-27T10:00:00.000000"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440008",
+    "name": "Jennifer Martinez",
+    "email": "jennifer.martinez@example.com",
+    "major": "Chemistry",
+    "year": 1,
+    "gpa": 3.3,
+    "status": "active",
+    "enrollment_date": "2024-09-01T00:00:00.000000",
+    "created_at": "2024-09-27T10:00:00.000000",
+    "updated_at": "2024-09-27T10:00:00.000000"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440009",
+    "name": "Christopher Lee",
+    "email": "christopher.lee@example.com",
+    "major": "Economics",
+    "year": 2,
+    "gpa": 3.1,
+    "status": "active",
+    "enrollment_date": "2023-09-01T00:00:00.000000",
+    "created_at": "2024-09-27T10:00:00.000000",
+    "updated_at": "2024-09-27T10:00:00.000000"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440010",
+    "name": "Amanda White",
+    "email": "amanda.white@example.com",
+    "major": "Biology",
+    "year": 3,
+    "gpa": 3.8,
+    "status": "active",
+    "enrollment_date": "2022-09-01T00:00:00.000000",
+    "created_at": "2024-09-27T10:00:00.000000",
+    "updated_at": "2024-09-27T10:00:00.000000"
+  }
+]

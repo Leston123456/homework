@@ -1,0 +1,50 @@
+{
+  "app": {
+    "name": "Student Management System",
+    "version": "1.0.0",
+    "description": "Efficient Student Information Management Solution",
+    "author": "ISYS3001 Student Project"
+  },
+  "environment": {
+    "development": {
+      "debug": true,
+      "api_url": "http://localhost:5000/api",
+      "database_url": "sqlite:///students.db"
+    },
+    "production": {
+      "debug": false,
+      "api_url": "https://api.studentmanagement.com",
+      "database_url": "postgresql://user:pass@localhost/students"
+    }
+  },
+  "features": {
+    "notifications": true,
+    "data_export": true,
+    "search_functionality": true,
+    "statistics": true,
+    "student_status_tracking": true
+  },
+  "ui": {
+    "theme": "default",
+    "language": "en",
+    "max_students_display": 100,
+    "auto_save": true
+  },
+  "validation": {
+    "email_validation": true,
+    "gpa_range": {
+      "min": 0.0,
+      "max": 4.0
+    },
+    "year_range": {
+      "min": 1,
+      "max": 4
+    }
+  },
+  "security": {
+    "input_validation": true,
+    "xss_protection": true,
+    "data_encryption": false,
+    "cors_enabled": true
+  }
+}
